@@ -1,8 +1,8 @@
-# 🤖 React Conversational UI
+# 🤖 React Chat Bot
 
-A react component for conversational UI. Define your question and get the users input in return.
+A react component for chat bot UI. Define your question and get the users input in return.
 
-<img src="https://cloud.githubusercontent.com/assets/4348783/22630685/cfdfe330-ebfe-11e6-8d4c-ea39a82b3bb4.gif" width="500" />
+<!-- <img src="https://cloud.githubusercontent.com/assets/4348783/22630685/cfdfe330-ebfe-11e6-8d4c-ea39a82b3bb4.gif" width="500" /> -->
 
 ## How to use
 
