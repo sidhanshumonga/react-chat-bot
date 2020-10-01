@@ -10,7 +10,7 @@ const Message = (props) => {
   const { message, active, theme } = props;
 
   return (
-    <section>
+    <section style={{display: 'flex', flexFlow: 'column'}}>
       {message.sender === 'BOT' ?
         <div>
           <Avatar left>
